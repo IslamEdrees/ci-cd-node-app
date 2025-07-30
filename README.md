@@ -2,12 +2,12 @@
 
 This is a simple Node.js app running inside Docker on ESXi.
 
-## ✅ Features
+##Features
 - Node.js app with Hello World
 - Dockerized
 - CI/CD with GitHub Actions
 
-## 🚀 Run locally
+## Run locally
 ```bash
 node app.js
 
